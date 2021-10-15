@@ -25,7 +25,7 @@ export const projects = [
    },
    {
       title: "Epic Note App",
-      subtitle: "React Hooks",
+      subtitle: "Express.js",
       description:
          "Using Express.js this app allows you to create, save and delete notes that can be retrieved anytime.",
       image: "./project-4.PNG",
