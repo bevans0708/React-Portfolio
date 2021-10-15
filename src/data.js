@@ -1,60 +1,64 @@
 export const projects = [
    {
-      title: "React Reserve",
+      title: "Philanthropy and Me",
       subtitle: "MERN Stack",
       description:
-         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+         "Philanthropy-and-me provides generous philanthropists and donors a platform to discover non-profit charitable organizations from a selection of category types. In a few simple clicks, users can narrow down to a selection of a few of the highest impact/largest organizations in a respective field.",
+      image: "./project-1.jpeg",
+      link: "https://pam-charity.herokuapp.com/",
    },
    {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Budget Tracker",
+      subtitle: "MongoDB and Mongoose",
       description:
-         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reactbootcamp.com",
+         "This online/offline web app helps a user track their expenses anytime of the day. ",
+      image: "./project-2.PNG",
+      link: "https://peaceful-wave-07387.herokuapp.com/",
    },
    {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Rate My Rental",
+      subtitle: "MySQL",
       description:
-         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://reactbootcamp.com",
+         "Rate My Rental is a web application that allows tenants to rate their landlords and/or associated properties to assist future tenants in making more fully informed decisions before entering into a lease. ",
+      image: "./project-3.png",
+      link: "https://rate-my-rental.herokuapp.com/",
    },
    {
-      title: "Epic Todo App",
+      title: "Epic Note App",
       subtitle: "React Hooks",
       description:
-         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://reactbootcamp.com",
+         "Using Express.js this app allows you to create, save and delete notes that can be retrieved anytime.",
+      image: "./project-4.PNG",
+      link: "https://note-taker-bevans0708.herokuapp.com/",
    },
 ];
 
-export const testimonials = [
-   {
-      quote:
-         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "https://randomuser.me/api/portraits/men/1.jpg",
-      name: "Jesse Hicks",
-      company: "Zoozle",
-   },
-   {
-      quote:
-         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "https://randomuser.me/api/portraits/men/94.jpg",
-      name: "Ruben Alvarez",
-      company: "Dooble.io",
-   },
-];
+// export const testimonials = [
+//    {
+//       quote:
+//          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+//       image: "https://randomuser.me/api/portraits/men/1.jpg",
+//       name: "Jesse Hicks",
+//       company: "Zoozle",
+//    },
+//    {
+//       quote:
+//          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+//       image: "https://randomuser.me/api/portraits/men/94.jpg",
+//       name: "Ruben Alvarez",
+//       company: "Dooble.io",
+//    },
+// ];
 
 export const skills = [
    "JavaScript",
    "React",
-   "Next.js",
+   "SQL",
+   "NoSQL",
    "Node",
    "GraphQL",
-   "Material UI",
+   "Express",
+   "MongoDB",
+   "Mongoose",
+   "HTML",
 ];
